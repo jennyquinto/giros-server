@@ -2,20 +2,20 @@
   "users": [
     {
       "id": 1,
-      "name": "Mailer",
-      "password": "jdhjsdsss",
-      "identification": "12345"
+      "name": "Jenny Quinto",
+      "password": "vanessa1991",
+      "identification": "11521927"
     },
     {
-      "name": "Juan",
-      "password": "jdhjsds",
-      "identification": "123456",
+      "name": "Johana quinto",
+      "password": "johanaq",
+      "identification": "11521925",
       "id": 2
     },
     {
-      "name": "Pedrito",
-      "identification": "1",
-      "password": "1",
+      "name": "Mailer",
+      "identification": "11521965",
+      "password": "profesor",
       "id": 3
     }
   ]
